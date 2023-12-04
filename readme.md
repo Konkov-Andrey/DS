@@ -1,7 +1,6 @@
 I have completed the following courses:
 
 <b>Basic Python</b>: 14 topics, 29 hours.<br>
-- Jupyter Notebook
 <b>SQL</b>: 9 topics, 30 hours.<br>
 <b>Probability Theory and Statistics</b>: 7 topics, 17 hours.<br>
 <b>Linear Algebra</b>: 7 topics, 20 hours.<br>
