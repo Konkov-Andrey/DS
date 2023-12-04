@@ -1,3 +1,8 @@
+| Work | Description |
+| --- | --- |
+| **`Sentiment Analysis`** | The online store is launching a new service. Now, users can edit and supplement product descriptions, similar to wiki communities. In other words, customers can propose their edits and comment on changes made by others. The store needs a tool that will identify toxic comments and submit them for moderation. |
+| **`Taxi Demand Prediction`** | The taxi company has gathered historical data on taxi orders at airports. To attract more drivers during peak periods, it is necessary to forecast the number of taxi orders for the next hour. |
+
 I have completed the following courses:
 
 <b>Basic Python</b>: 14 topics, 29 hours.<br>
@@ -20,8 +25,3 @@ I have completed the following courses:
 <b>Unsupervised Learning</b>: 5 topics, 10 hours.<br>
 
 In total, I have spent approximately 366 hours studying 122 topics.
-
-| Work | Description |
-| --- | --- |
-| **`Sentiment Analysis`** | The online store is launching a new service. Now, users can edit and supplement product descriptions, similar to wiki communities. In other words, customers can propose their edits and comment on changes made by others. The store needs a tool that will identify toxic comments and submit them for moderation. |
-| **`Taxi Demand Prediction`** | The taxi company has gathered historical data on taxi orders at airports. To attract more drivers during peak periods, it is necessary to forecast the number of taxi orders for the next hour. |
