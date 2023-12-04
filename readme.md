@@ -23,5 +23,5 @@ In total, I have spent approximately 366 hours studying 122 topics.
 
 | Work | Description |
 | --- | --- |
-| `**Sentiment Analysis**` | List all *new or modified* files |
+| **`Sentiment Analysis`** | List all *new or modified* files |
 | `**Taxi Demand Prediction**` | Show file differences that **haven't been** staged |
