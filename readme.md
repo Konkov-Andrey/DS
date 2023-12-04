@@ -1,6 +1,6 @@
 I have learned:
 
-Basic Python: 14 topics, approximately 29 hours.
+Basic Python: 14 topics, approximately 29 hours.<br>
 Data Preprocessing: 8 topics, approximately 35 hours.
 Exploratory Data Analysis: 8 topics, approximately 30 hours.
 Statistical Data Analysis: 9 topics, approximately 20 hours.
