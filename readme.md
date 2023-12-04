@@ -13,7 +13,6 @@ I have learned:
 <b>Introduction to Machine Learning</b>: 7 topics, 20 hours.<br>
 <b>Supervised Learning</b>: 8 topics, 20 hours.<br>
 <b>Machine Learning in Business</b>: 7 topics, 25 hours.<br>
-
 <b>Machine Learning in Time Series</b>: 5 topics, 10 hours.<br>
 <b>Machine Learning for Texts</b>: 5 topics, 25 hours.<br>
 <b>Machine Learning in Computer Vision</b>: 10 topics, 35 hours.<br>
@@ -22,7 +21,7 @@ I have learned:
 
 In total, I have spent approximately 366 hours studying 122 topics.
 
-| Command | Description |
+| Work | Description |
 | --- | --- |
 | `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+| `Taxi Demand Prediction` | Show file differences that **haven't been** staged |
