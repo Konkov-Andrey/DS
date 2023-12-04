@@ -1,4 +1,4 @@
-I have learned:
+I have completed the following courses:
 
 <b>Basic Python</b>: 14 topics, 29 hours.<br>
 <b>SQL</b>: 9 topics, 30 hours.<br>
