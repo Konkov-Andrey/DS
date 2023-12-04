@@ -16,3 +16,8 @@ I have learned:
 <b>Computer Vision</b>: 10 topics, 35 hours.<br>
 <b>Unsupervised Learning</b>: 5 topics, 10 hours.<br>
 In total, I have spent approximately 366 hours studying 122 topics.
+
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
