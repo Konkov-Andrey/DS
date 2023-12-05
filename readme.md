@@ -26,5 +26,3 @@ I have completed the following courses:
 <b>Machine Learning in Computer Vision</b>: 10 topics, 35 hours.<br>
 <b>Neural network in Computer Vision</b>: 10 topics, 35 hours.<br>
 <b>Unsupervised Learning</b>: 5 topics, 10 hours.<br>
-
-In total, I have spent approximately 366 hours studying 122 topics.
