@@ -1,6 +1,7 @@
 | Work | Description |
 | --- | --- |
 | **`Sentiment Analysis`** | The online store is launching a new service. Now, users can edit and supplement product descriptions, similar to wiki communities. In other words, customers can propose their edits and comment on changes made by others. The store needs a tool that will identify toxic comments and submit them for moderation. |
+| **'Determining the cost of cars'** | The service for selling used cars is developing an application to attract new customers. You'll be able to find out the market value of your car in it. Build a model that can determine it. You have data on technical specifications, configuration, and prices of other cars at your disposal. The criteria that are important to the customer are: the quality of prediction, the model learning time and the model prediction time. |
 | **`Taxi Demand Prediction`** | The taxi company has gathered historical data on taxi orders at airports. To attract more drivers during peak periods, it is necessary to forecast the number of taxi orders for the next hour. |
 
 I have completed the following courses:
